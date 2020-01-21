@@ -1,0 +1,25 @@
+#firstSec {
+    font-size: large;
+    height: 400px;
+    width: 600px;
+    margin: 30px;
+    background-image: linear-gradient(to right, rgb(240, 97, 97), yellow);
+    color: brown;
+}
+
+#secondSec {
+    height: 400px;
+    width: 600px;
+    margin: 30px;
+    background-image: linear-gradient(to left, silver, rgb(68, 140, 173));
+}
+
+#section-ul>li {
+    font-size: 25px;
+    color: #000;
+}
+
+ #second-section-ul>li{
+        font-size: 40px;
+        color: red;
+    }
